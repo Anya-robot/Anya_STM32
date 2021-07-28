@@ -1,0 +1,10 @@
+19:18:27 **** Incremental Build of configuration Debug for project base_tele ****
+make -j4 all 
+arm-none-eabi-size   base_tele.elf 
+   text	   data	    bss	    dec	    hex	filename
+  27548	    136	   4424	  32108	   7d6c	base_tele.elf
+Finished building: default.size.stdout
+ 
+
+19:18:28 Build Finished. 0 errors, 0 warnings. (took 1s.131ms)
+
